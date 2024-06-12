@@ -78,7 +78,7 @@ function draw() {
 
     background(0);
 
-    mostraBolinha();
+    bingofofo();
 
     movimentaBolinha();
 
@@ -102,7 +102,7 @@ function draw() {
 
 }
 
-function mostraBolinha() {
+function bingofofo() {
 
   circle(xBolinha, yBolinha, diametro);
 
